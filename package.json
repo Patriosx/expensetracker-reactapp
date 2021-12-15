@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://Patriox.github.io/expensetracker-react",
+  "homepage":"http://Patriox.github.io/expensetracker-reactapp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^11.2.7",
