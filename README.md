@@ -1,7 +1,8 @@
-# fe-expensetracker
+# Expense Tracker
 
 Basic Expense tracker App built with React and bootswatch
- Calc:
+Calc:
+
  <ul>
   <li>Balance</li>  
   <li>Income</li>
