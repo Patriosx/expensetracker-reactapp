@@ -9,4 +9,4 @@ Calc:
   <li>Expense</li>
 </ul>
 
-[DEMO](https://patriosx.github.io/expensetracker-react/)
+[DEMO](https://patriosx.github.io/expensetracker-reactapp/)
